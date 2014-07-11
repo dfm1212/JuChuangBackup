@@ -8,4 +8,5 @@ JuChuangBackup
 
 4. 在dev分支上修改文件。
 
-6. 修复bug，后提交.
+5. 在dev分支上工作，有bug，修复先....
+6. edit on bash, hahaha
