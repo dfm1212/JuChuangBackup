@@ -7,3 +7,6 @@ JuChuangBackup
 3. develop on branch1 && on master.
 
 4. 在dev分支上修改文件。
+
+5. 在dev分支上工作，有bug，修复先....
+6. edit on bash, hahaha
