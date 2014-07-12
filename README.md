@@ -9,4 +9,7 @@ JuChuangBackup
 4. 在dev分支上修改文件。
 
 5. 在dev分支上工作，有bug，修复先....
-6. edit on bash, hahaha
+6. edit on bash, haha
+
+7. develop on another small branch....
+
